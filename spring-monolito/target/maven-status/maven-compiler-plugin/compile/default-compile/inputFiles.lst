@@ -1,0 +1,13 @@
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/repository/LivroRepository.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/controller/AutorController.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/SpringBootJpaH2Application.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/model/Vendas.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/model/Livros.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/repository/VendaRepository.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/repository/AutorRepository.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/controller/ObraController.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/model/Obra.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/controller/VendaController.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/model/Autor.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/controller/LivrosController.java
+/Users/Alexandra.Silva/Documents/ALE/aula/infnet/spring-boot-h2-database-crud-master/src/main/java/com/infnet/spring/jpa/h2/repository/ObraRepository.java

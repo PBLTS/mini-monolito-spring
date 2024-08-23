@@ -1,0 +1,13 @@
+com/infnet/spring/jpa/h2/controller/VendaController.class
+com/infnet/spring/jpa/h2/model/Autor.class
+com/infnet/spring/jpa/h2/model/Livros.class
+com/infnet/spring/jpa/h2/model/Obra.class
+com/infnet/spring/jpa/h2/repository/LivroRepository.class
+com/infnet/spring/jpa/h2/repository/AutorRepository.class
+com/infnet/spring/jpa/h2/repository/ObraRepository.class
+com/infnet/spring/jpa/h2/repository/VendaRepository.class
+com/infnet/spring/jpa/h2/controller/LivrosController.class
+com/infnet/spring/jpa/h2/model/Vendas.class
+com/infnet/spring/jpa/h2/SpringBootJpaH2Application.class
+com/infnet/spring/jpa/h2/controller/AutorController.class
+com/infnet/spring/jpa/h2/controller/ObraController.class
